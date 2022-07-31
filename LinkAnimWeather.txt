@@ -1,0 +1,26 @@
+[  
+      {  
+        "name":"rain",
+        "data":"49wxirejrlpp77m/rain.zip?dl=0"
+      },
+      {  
+        "name":"thunderstorm",
+        "data":"f8gvicf76bcb3xp/Thunder.zip?dl=0"
+      },
+      {  
+        "name":"drizzle",
+        "data":"elj0sdw2y7ixqrj/drizzle.zip?dl=0"
+      },
+      {  
+        "name":"snow",
+        "data":"8ug4klm1y99o4xj/snow.zip?dl=0"
+      },
+      {  
+        "name":"atmosphere",
+        "data":"pmn6dv9dws2fklc/atmosphere.zip?dl=0"
+      },
+      {  
+        "name":"cloud",
+        "data":"xzlefpblerr9zid/clound.zip?dl=0"
+      }
+  ]
